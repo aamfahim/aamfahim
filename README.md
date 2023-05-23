@@ -36,6 +36,7 @@ I am a third year Honours Bachelor of Technology - Software Development student 
 <img align="left" alt="JWT" width="60px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/jwtio-json-web-token.svg">          
 <img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 <img align="left" alt="Jotai" width="60x" style="padding-right:10px;padding-top:4px;" src="https://seeklogo.com/images/J/jotai-logo-166D85BB22-seeklogo.com.png" />
+<img align="left" alt="Jest" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />          
 <!-- <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> -->
           
 <br> <br>
@@ -58,7 +59,8 @@ I am a third year Honours Bachelor of Technology - Software Development student 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="TortoiseGit" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg" />
 <img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
-                              
-          
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
+
 <br> <br>
 <hr>
